@@ -1,6 +1,6 @@
 import FadeSection from "../components/FadeSection";
 import Day7 from "../components/Day7";
-import { story } from "../data/story";
+import { story } from "../data/Story";
 import dayjs from "dayjs";
 
 export default function Story() {
