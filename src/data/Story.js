@@ -60,7 +60,7 @@ export const story = [
         image: "/assets/Rose9.jpg",
         fit: 'contain',
         position: 'center',
-        music: { title: "Just a boy", url: "/assets/music/" }
+        music: { title: "Just a boy", url: "/assets/music/hume-tumse.mp3" }
       },
       {
         text: "Main ektarfa aashiq hoon — tumhari khubsurti meri qalam ka nishan hai\nAur tumse hi meri pahchaan hai,Teri har ek ada mere alfaaz mein rang bhar jate hai,\nTere husn ke aage mere ye lafz bhi sharminda ho jate hai.",
